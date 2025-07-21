@@ -2,7 +2,7 @@
 
 read num
 
-fact=2
+fact=3
 i=$num
 
 while [ $i -gt 1 ]
