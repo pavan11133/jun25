@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#This is the factorial process
 read num
 
 fact=3
